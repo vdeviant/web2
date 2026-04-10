@@ -1,6 +1,6 @@
 # 📝 Cadastro Simples Responsivo
 
-Este é um projeto de uma página de cadastro minimalista, desenvolvida com foco em experiência do usuário (UX) e validação de dados em tempo real. O formulário captura Nome, E-mail e Telefone, contando com máscaras dinâmicas para facilitar o preenchimento.
+Este é um projeto de uma página de cadastro minimalista, desenvolvida com foco em experiência do usuário (UX). O formulário captura Nome, E-mail e Telefone, contando com máscaras dinâmicas para facilitar o preenchimento.
 
 ---
 
