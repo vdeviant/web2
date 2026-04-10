@@ -7,7 +7,6 @@ Este é um projeto de uma página de cadastro minimalista, desenvolvida com foco
 ## 🚀 Funcionalidades
 
 * **Validação de E-mail:** Utiliza o padrão nativo do HTML5 para garantir endereços válidos.
-* **Máscara de Telefone Dinâmica:** Script inteligente que identifica e formata automaticamente números de telefone fixo (8 dígitos) e celular (9 dígitos) no padrão brasileiro `(00) 00000-0000`.
 * **Design Responsivo:** A interface se adapta a diferentes tamanhos de tela (desktop, tablets e smartphones).
 * **Feedback Visual:** Inputs com estados de foco e validação para guiar o usuário.
 
